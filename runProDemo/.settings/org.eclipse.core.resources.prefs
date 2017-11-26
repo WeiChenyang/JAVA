@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/main=UTF-8
+encoding//src/util/utils/dao/ProcCaller.java=UTF-8
+encoding//src/util/utils/dao/ProcExceptionDao.java=UTF-8
+encoding//src/util/utils/handlers/DynamicListHandler.java=UTF-8
+encoding//src/util/utils/handlers/DynamicObjectHandler.java=UTF-8
+encoding//src/util/utils/interfaces/IQueryRecordCount.java=UTF-8
+encoding//src/util/utils/vo/QueryResult.java=UTF-8
+encoding/<project>=UTF-8
