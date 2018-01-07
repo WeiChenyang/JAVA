@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//WebRoot/WEB-INF/template/ftl/ftlModel.ftl=UTF-8
+encoding//src/writeExcel/util/ExcelExportUtil.java=UTF-8
+encoding//src/writeExcel/util/FreeMarkerExportUtil.java=UTF-8

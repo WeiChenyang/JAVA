@@ -1,0 +1,13 @@
+<mapping>
+	<!-- 上传映射开始 上传映射优先匹配colIndex,如果没有colIndex则匹配header -->
+	<object
+		type="patchUpload.run.vo.User">
+		<sheet seq="1">
+			<col header="序号" attribute="userId" colIndex="1" />
+			<col header="姓名" attribute="userName" colIndex="2" />
+			<col header="性别" attribute="sex" colIndex="3" />
+			<col header="年龄" attribute="age" colIndex="4" />
+			<col header="出生日期" attribute="birthday" colIndex="5" />
+		</sheet>
+	</object>
+</mapping>
