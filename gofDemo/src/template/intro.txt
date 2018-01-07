@@ -1,0 +1,5 @@
+模板模式总结：
+	1、定义一个操作中算法的股价，将一些步骤的执行延迟到其子类中。
+	2、使用java的抽象类时，经常会使用到template模式。
+	3、在benchMark抽象类中重复执行benchMark()操作，但对benchMark（）的具体内容没有说明，而是延迟到子类中。
+		repeat方法为模板方法，其中的benchMark()实现被延迟到子类MethodBenchMark（）中具体实现。
